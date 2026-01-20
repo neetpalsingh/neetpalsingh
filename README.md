@@ -1,45 +1,174 @@
-[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)](https://rishavchanda.io)
+[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)]()
+
 <h1 align="center">Hi 👋, I'm Neetpal Singh</h1>
-<h3 align="center">Inspring Data Scientist & Machaine Learning Engineer 🌍From Noida, India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:866/1*h1dUrjhkHzMU46jW1cQjAg.gif">
+<h3 align="center">AI Engineer | Generative AI | RAG Architect | Agentic AI Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neetpalsingh&label=Profile%20views&color=0e75b6&style=flat" alt="neetpalsingh" /> </p>
+<img align="right" alt="Coding" width="420" src="https://miro.medium.com/v2/resize:fit:866/1*h1dUrjhkHzMU46jW1cQjAg.gif">
 
-- 🔭 I’m currently working on **Data Science Lab Offered By WorldQuant University**
-
-- 🌱 I’m currently learning **Data Science Intern From Codsoft**
-
-- 👨‍💻 All of my projects are available at [https://neetpalsingh.github.io/about.github.io/](https://neetpalsingh.github.io/about.github.io/)
-
-- 📝 I regularly write articles on [https://neetpalsingh.blogspot.com/](https://neetpalsingh.blogspot.com/)
-
-- 💬 Ask me about **Python, Tableau, Power-BI, Advance-Excel, Pandas, Numpy, Matplotlib, Seaborn, Sklearn & related to Data And AI**
-
-- 📫 How to reach me **neetpalsingh750@gmail.com**
-
-- ⚡ Fun fact **Funny with Data Analyst & Data Science Project.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neetpal-singh-690330218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neetpal-singh-690330218" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/neetpalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/neetpalsingh" height="30" width="40" /></a>
-<a href="https://instagram.com/neetpal_raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neetpal_raghav" height="30" width="40" /></a>
-<a href="https://medium.com/@neetpalsingh750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@neetpalsingh750" height="30" width="40" /></a>
-<a href="https://neetpalsingh.github.io/about.github.io/" target="blank"><img align="center" src="https://neetpalsingh.github.io/about.github.io/images/nitu.png" alt="" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/neetpal.singh" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" alt="neetpal.singh" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=neetpalsingh&label=Profile%20views&color=0e75b6&style=flat" alt="neetpalsingh" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neetpalsingh&show_icons=true&locale=en&layout=compact" alt="neetpalsingh" /></p>
+## 🚀 About Me  
+I am an **AI/ML Engineer** specializing in **Generative AI, Hybrid RAG systems, Agentic AI workflows, Vector + Graph Databases, and production-grade AI applications**.  
+I build **intelligent, scalable AI systems** for enterprise use cases like **GRC, compliance automation, chatbot platforms, RAG-based search, and predictive analytics**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neetpalsingh&show_icons=true&locale=en" alt="neetpalsingh" /></p>
+Currently working at **Ascent Business Technology, Gurgaon** as an **AI Engineer**.
 
-<h3 align="left">Data Analysis Projects:</h3>
+---
 
-<div class='tableauPlaceholder' id='viz1696594181834' style='position: relative'><noscript><a href='https://public.tableau.com/app/profile/neetpal.singh/vizzes'><img alt='Dashboard 1 ' src='https://github.com/neetpalsingh/about.github.io/blob/main/images/pro.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DelhiMetroMapDashboard&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https://github.com/neetpalsingh/about.github.io/blob/main/images/pro.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>               
+## 🔥 What I Do
+- ⚙️ Build enterprise-grade **Hybrid RAG architectures** (Vector DB + Graph DB + Elasticsearch)  
+- 🤖 Develop **AI Agents**, LLM-based workflows, and NLP-powered automation  
+- 🔍 Implement multi-tenant **SaaS AI chatbot platforms**  
+- 📚 Fine-tune LLMs (LLaMA 7B, Mistral Large 3) using **LoRA/QLoRA**  
+- 🧠 Create deep learning models for healthcare and predictive analytics  
+- 🗄️ Design & optimize **ETL / ELTL pipelines** for unstructured data  
+- 🔐 Implement **RBAC, secure data access**, and enterprise search governance  
+
+---
+
+## 🛠️ Skills & Technologies
+
+### **Programming**
+Python | SQL | PostgreSQL | MS SQL | Cypher | Java (Spring Boot)
+
+### **AI & ML**
+LLMs | RAG | Agentic AI | LangChain | LangFlow | LangGraph  
+Deep Learning | Computer Vision | NLP | Scikit-Learn | TensorFlow | PyTorch
+
+### **Data Tools**
+MongoDB | ChromaDB | Neo4j | Elasticsearch  
+Tableau | Power BI | Excel | Google Data Studio  
+Airbyte | Airflow | ETL/ELTL Pipelines
+
+### **Soft Skills**
+Problem-Solving | Leadership | Team Management | Critical Thinking | Public Speaking
+
+---
+
+## 🚧 Work Experience
+
+### **🔹 AI Engineer — Ascent Business Technology (Oct 2024 – Present)**  
+- Developed **self-hosted intelligent chatbot platform** with Hybrid RAG  
+- Built **Generative AI Compliance Engine** using Agentic workflows  
+- Implemented **RBAC-based secure enterprise search**  
+- Created **AI-driven NLP Query & Report Generator**  
+- Worked on **GRC product’s AI layer** (risk assessment, regulatory mapping)  
+- Designed **Hybrid ELTL pipelines** for PDFs, text & unstructured data  
+- Fine-tuned **LLaMA & Mistral** models using LoRA / QLoRA  
+- Implemented **risk prediction models** using regulatory/market data  
+
+---
+
+## 🧩 Featured Projects
+
+### 🔥 **PlugAI Business – AI Service Platform**
+**React + FastAPI + LLMs + JWT Auth + Scheduler + Analytics**  
+- AI Assistant  
+- Auto call scheduling (Google Calendar API)  
+- News & Article Management CMS  
+- Scalable backend + responsive UI
+
+### 🤖 **Plug Chat – Multi-Tenant SaaS Chatbot Platform**
+**RAG | Agentic AI | Multi-Tenant | Embeddable Widgets**  
+- Create custom business chatbots  
+- Document ingestion + website crawling  
+- Tenant-isolated Vector/Graph DBs  
+- Configurable LLM Providers  
+- Third-party integrations  
+
+### 🧠 **Alzheimer’s Disease Detection (CNN + Transfer Learning)**
+Used **VGG16, VGG19, ResNet121, EfficientNet** for MRI classification & early diagnosis.
+
+---
+
+## 🎓 Certifications
+- Applied Data Science Lab — *WorldQuant University*  
+- Graph DB Certified Professional — *Neo4j*  
+- Google AI/ML — *AICTE*  
+- Microsoft Machine Learning Certification  
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/neetpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://kaggle.com/neetpalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+<a href="https://medium.com/@neetpalsingh750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/neetpal_raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python" width="40" />
+<img src="https://skillicons.dev/icons?i=react" width="40"  title="React UI" />
+<img src="https://skillicons.dev/icons?i=angular" width="40"  title="Angular" />
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres" width="40" />
+<img src="https://skillicons.dev/icons?i=mysql" width="40" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+<img src="https://neo4j.com/wp-content/themes/neo4jweb/favicon.ico" width="40" title="Neo4j GraphDB" />
+<img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk-512x339.png" width="40" title="Chroma DB" />
+
+<!-- AI / ML / LLM -->
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" title="Seaborn" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf29K5hMacohg-baQFtc8QzkM8ruC7Er2-ug&s" width="40" title="Matplotlib" />
+<img src="https://numpy.org/images/logo.svg" width="40" title="NumPy" />
+<img src="https://img.icons8.com/color/1200/pandas.jpg" width="40" title="Pandas" />
+<img src="https://skillicons.dev/icons?i=tensorflow" width="40" />
+<img src="https://skillicons.dev/icons?i=pytorch" width="40" />
+<img src="https://skillicons.dev/icons?i=sklearn" width="40"  title="SkLearn ML Framework" />
+<img src="https://skillicons.dev/icons?i=opencv" width="40"  title="OpenCV" />
+<img src="https://skillicons.dev/icons?i=sklearn" width="40"  title="SkLearn ML Framework" />
+
+<!-- LLM / RAG / Agentic -->
+<img src="https://blogs.perficient.com/files/lanchain.png" width="50" title="LangChain" />
+<img src="https://imagedelivery.net/-IT6z0z0Ec5yEiYj3DvVjg/374d5c915b0796e2a823ac9a010fdeacff51d899/public" width="50" title="LangGraph" />
+<img src="https://writer.com/wp-content/uploads/2023/11/2023-11-Retrieval-augmented-generation-what-it-is-and-why-its-a-hot-topic-for-enterprise-AI-Blog-1.png" width="40" title="RAG" />
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="LLMs / HuggingFace" />
+<img src="https://ih1.redbubble.net/image.5611428487.0532/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.webp" width="40" title="Ollama" />
+<img src="https://skillicons.dev/icons?i=ai" width="40" title="ReAct AI" />
+<img src="https://cdn-ilecmkp.nitrocdn.com/DAZPgUDsqbagEQjdTxeyxVBHzEKoYTEr/assets/images/optimized/rev-9d54f3b/keydynamicssolutions.com/wp-content/uploads/2025/12/Agentic-AI.png" width="50" title="Agentic AI" />
+
+<!-- ETL / Pipeline -->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" width="35" title="Apache Airflow" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS23H4D0DPDELkxVb68MtlU9pQWdUFA2Fktg&s" width="50" title="Airbyte" />
+<img src="https://i.pinimg.com/474x/47/21/58/472158c2429007c4c4a0a7467aec888d.jpg" width="40" title="dbt" />
+
+<!-- BI Tools -->
+<img src="https://download.logo.wine/logo/Power_BI/Power_BI-Logo.wine.png" width="60" title="Power BI" />
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" title="Tableau" />
+
+<!-- Frameworks -->
+
+<!-- DevOps / Tools -->
+<img src="https://skillicons.dev/icons?i=docker" width="40"  title="Docker" />
+<img src="https://skillicons.dev/icons?i=github" width="40"  title="Github" />
+<img src="https://skillicons.dev/icons?i=linux" width="40"  title="Linux" />
+<img src="https://skillicons.dev/icons?i=aws" width="40"  title="AWS" />
+<img src="https://skillicons.dev/icons?i=gcp" width="40"  title="Google cloud" />
+
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neetpalsingh&show_icons=true&layout=compact" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=neetpalsingh&show_icons=true" />
+</p>
+
+---
