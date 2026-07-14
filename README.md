@@ -1,6 +1,5 @@
-[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)]()
+![Neetpal Singh — AI Engineer](banner.svg)
 
-<h1 align="center">Hi 👋, I'm Neetpal Singh</h1>
 <h3 align="center">AI Engineer | Generative AI | RAG Architect | Agentic AI Developer</h3>
 
 <img align="right" alt="Coding" width="420" src="https://miro.medium.com/v2/resize:fit:866/1*h1dUrjhkHzMU46jW1cQjAg.gif">
@@ -22,11 +21,12 @@ Currently working at **Ascent Business Technology, Gurgaon** as an **AI Engineer
 ## 🔥 What I Do
 - ⚙️ Build enterprise-grade **Hybrid RAG architectures** (Vector DB + Graph DB + Elasticsearch)  
 - 🤖 Develop **AI Agents**, LLM-based workflows, and NLP-powered automation  
-- 🔍 Implement multi-tenant **SaaS AI chatbot platforms**  
+- 🔍 Implement multi-tenant **SaaS AI chatbot platforms** (FastAPI, LangGraph, Redis, RabbitMQ)
+- 💳 Integrate **Razorpay & Stripe payment gateways** for secure subscriptions, billing, and SaaS payment workflows
 - 📚 Fine-tune LLMs (LLaMA 7B, Mistral Large 3) using **LoRA/QLoRA**  
 - 🧠 Create deep learning models for healthcare and predictive analytics  
 - 🗄️ Design & optimize **ETL / ELTL pipelines** for unstructured data  
-- 🔐 Implement **RBAC, secure data access**, and enterprise search governance  
+- 🔐 Implement **RBAC, secure data access** in api endpoints using keycloak, and enterprise search governance  
 
 ---
 
@@ -97,16 +97,17 @@ Currently working at **Ascent Business Technology, Gurgaon** as an **AI Engineer
 ## 🛠️ Skills & Technologies
 
 ### **Programming**
-Python | SQL | PostgreSQL | MS SQL | Cypher | Java (Spring Boot)
+Python | SQL | PostgreSQL | MS SQL | Cypher Query | JWT
 
 ### **AI & ML**
-LLMs | RAG | Agentic AI | LangChain | LangFlow | LangGraph  
-Deep Learning | Computer Vision | NLP | Scikit-Learn | TensorFlow | PyTorch
+LLMs | RAG | Agentic AI | LangChain | LangFlow | LangGraph | Transformers | Unsloth
+Deep Learning | Computer Vision | NLP | Scikit-Learn | TensorFlow | PyTorch | LLM Fine-Tuning | MCP | N8N
+OpenAI | Azure AI Foundry |  AWS Bedrock | Anthropic Claude | Gemini | Groq | Ollama | HuggingFace
 
 ### **Data Tools**
-MongoDB | ChromaDB | Neo4j | Elasticsearch  
+MongoDB | ChromaDB | Neo4j | Postgres & pgvector | Redis Cache | 
 Tableau | Power BI | Excel | Google Data Studio  
-Airbyte | Airflow | ETL/ELTL Pipelines
+LlamaIndex | Airbyte | Airflow | ETL/ELTL Pipelines | RabbitMQ
 
 ### **Soft Skills**
 Problem-Solving | Leadership | Team Management | Critical Thinking | Public Speaking
