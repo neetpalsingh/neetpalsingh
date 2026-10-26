@@ -168,12 +168,30 @@ Used **VGG16, VGG19, ResNet121, EfficientNet** for MRI classification & early di
 
 
 ## 📊 GitHub Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neetpalsingh&show_icons=true&layout=compact" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=neetpalsingh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FA5D19&icon_color=FA5D19&text_color=C9D1D9&count_private=true&cache_seconds=86400" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=neetpalsingh&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=FA5D19&icon_color=FA5D19&text_color=262626&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=neetpalsingh&layout=compact&hide_border=true&bg_color=0D1117&title_color=FA5D19&text_color=C9D1D9&cache_seconds=86400" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=neetpalsingh&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=FA5D19&text_color=262626&cache_seconds=86400" alt="Top languages" />
+  </picture>
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=neetpalsingh&show_icons=true" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=neetpalsingh&hide_border=true&background=0D1117&ring=FA5D19&fire=FA5D19&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FA5D19&sideLabels=C9D1D9&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com?user=neetpalsingh&hide_border=true&background=FFFFFF&ring=FA5D19&fire=FA5D19&currStreakNum=262626&sideNums=262626&currStreakLabel=FA5D19&sideLabels=525252&dates=737373" alt="GitHub streak" />
+  </picture>
 </p>
 
 ---
+
+
+<p align="center">
+  <b>Let's build something intelligent.</b><br/>
+  <a href="https://neetpalsingh.github.io/about.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/neetpal-singh-690330218">LinkedIn</a> ·
+  <a href="mailto:neetpalsingh750@gmail.com">neetpalsingh750@gmail.com</a> 
+</p>
